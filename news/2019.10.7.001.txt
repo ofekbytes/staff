@@ -1,0 +1,14 @@
+
+    Jenkins - 
+    Jenkins is a java application, multiple Operating System (os) platform.
+
+<https://www.youtube.com/watch?v=89yWXXIOisk>
+
+
+
+    Docker - 
+    
+<https://www.youtube.com/watch?v=JprTjTViaEA>
+
+    
+
